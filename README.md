@@ -1,4 +1,4 @@
-The goal of this exercise is not to improve accuracy or minimize loss function. It showcases the power of Principal Componenent Technique to reduce the computational time required when there are large number of input features.
+The goal of this analysis is not to improve accuracy or minimize loss function. It showcases the power of Principal Componenent Technique to reduce the computational time required when there are large number of input features.
 
 In this case there are '41' features originally, out of which only '10' are selected which has 90% variance in input data.
 
